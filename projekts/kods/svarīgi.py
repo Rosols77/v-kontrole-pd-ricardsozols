@@ -1,1 +1,1 @@
-"Reti kas dzīvē ir svarīgāks par versiju kontroli"
+"Reti kas dzīvē  ir svarīgāks par versiju kontroli"
